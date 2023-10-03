@@ -15,13 +15,10 @@ Working with schools mostly in rural areas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hKNj4aJ9F6s?si=FCfCUULUJp0GKpI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-With **[GitHub action]** Size Limit will post bundle size changes as a comment
-in pull request discussion.
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/andresz1/size-limit-action/master/assets/pr.png"
-  alt="Size Limit comment in pull request about bundle size changes"
-  width="686" height="289">
+<img src="http://amandlaomnotho.co.za/wp-content/uploads/2023/10/map.png"
+  alt="Link to our file"
+   height="386">
 </p>
 
 With `--why`, Size Limit can tell you *why* your library is of this size
