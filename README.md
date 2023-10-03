@@ -13,9 +13,7 @@ Working with schools mostly in rural areas
 * Can calculate **Average perfomance of your students for a particular task** 
 * Realtime and easy to understand perfomance graphs included ****Office45 
 
-<p align="center">
-  <img src="http://amandlaomnotho.co.za/wp-content/uploads/2023/10/App.png" alt="Phone View" width="738">
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hKNj4aJ9F6s?si=FCfCUULUJp0GKpI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 With **[GitHub action]** Size Limit will post bundle size changes as a comment
 in pull request discussion.
