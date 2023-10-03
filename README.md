@@ -14,7 +14,7 @@ Working with schools mostly in rural areas
 * Realtime and easy to understand perfomance graphs included ****Office45 
 
 <p align="center">
-  <img src="./img/example.png" alt="Size Limit CLI" width="738">
+  <img src="http://amandlaomnotho.co.za/wp-content/uploads/2023/10/App.png" alt="Phone View" width="738">
 </p>
 
 With **[GitHub action]** Size Limit will post bundle size changes as a comment
