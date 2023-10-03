@@ -15,11 +15,6 @@ Working with schools mostly in rural areas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hKNj4aJ9F6s?si=FCfCUULUJp0GKpI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p align="center">
-<img src="http://amandlaomnotho.co.za/wp-content/uploads/2023/10/map.png"
-  alt="Link to our file"
-   height="386">
-</p>
 
 
 ## Who Uses Office45
@@ -56,6 +51,9 @@ Working with schools mostly in rural areas
 
 ## Reports
 
-Size Limit has a [GitHub action] that comments and rejects pull requests based
-on Size Limit output.
+<p align="center">
+<img src="http://amandlaomnotho.co.za/wp-content/uploads/2023/10/map.png"
+  alt="Link to our file"
+   height="386">
+</p>
 
