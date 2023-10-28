@@ -57,7 +57,14 @@ Working with schools mostly in rural areas
 
 <p align="center">
 <img src="http://amandlaomnotho.co.za/wp-content/uploads/2023/10/map.png"
-  alt="Link to our file"
+  alt="Office45 App Screenshot"
    height="386">
 </p>
+
+<table>
+  <tr>
+    <td><iframe width="417" height="741" src="https://www.youtube.com/embed/jHsaxSaGiRU" title="Office45 App Announcement sharing app that is educational informative. complete school #app #tech" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+    <td><iframe width="417" height="741" src="https://www.youtube.com/embed/4aQEEs6l-cU" title="Office45 App Complete School Management System LMS #android #technology #tech #lms #education #app" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+  </tr>
+</table>
 
