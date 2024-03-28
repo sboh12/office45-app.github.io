@@ -58,7 +58,7 @@ Working with schools mostly in rural areas
 ## Reports
 
 <p align="center">
-<img src="http://amandlaomnotho.co.za/wp-content/uploads/2023/10/map.png"
+<img src="android-chrome-512x512.png"
   alt="Office45 App Screenshot"
    height="386">
 </p>
