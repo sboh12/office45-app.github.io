@@ -6,7 +6,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <meta name="description" content="Announcement Sharing App that is educational informative Working with schools mostly in rural areas">
 </head>
-<img src="https://amandlaomnotho.co.za/wp-content/uploads/ultimatemember/1/profile_photo-190x190.jpg?1696348136" align="right"
+<img src="android-chrome-512x512.png" align="right"
      alt="Office45 Logo" width="190" height="190">
 
 Announcement Sharing App that is educational informative
